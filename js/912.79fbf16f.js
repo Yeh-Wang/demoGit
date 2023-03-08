@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkstudent_info_get"]=self["webpackChunkstudent_info_get"]||[]).push([[912],{7912:function(e,t,u){u.r(t),u.d(t,{default:function(){return o}});var n=u(6252),a=u(2262),l=(0,n.aZ)({__name:"404View",setup(e){const t=(0,a.iH)(!0);return(e,u)=>{const a=(0,n.up)("el-card");return(0,n.wg)(),(0,n.j4)(a,{modelValue:t.value,"onUpdate:modelValue":u[0]||(u[0]=e=>t.value=e),center:""},{default:(0,n.w5)((()=>[(0,n.Uk)("修改成功，请关闭界面")])),_:1},8,["modelValue"])}}});const r=l;var o=r}}]);
+//# sourceMappingURL=912.79fbf16f.js.map
